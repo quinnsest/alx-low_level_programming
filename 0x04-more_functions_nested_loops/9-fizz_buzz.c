@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - print numbers 1 - 100
  *       multiples of 3 print Fizz
